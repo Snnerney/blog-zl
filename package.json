@@ -37,6 +37,7 @@
     "@pinia/nuxt": "catalog:util",
     "@shikijs/colorized-brackets": "catalog:content",
     "@shikijs/transformers": "catalog:content",
+    "@vercel/analytics": "^2.0.1",
     "@vueuse/core": "catalog:util",
     "@vueuse/nuxt": "catalog:util",
     "@vueuse/router": "catalog:util",

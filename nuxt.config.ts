@@ -150,6 +150,7 @@ export default defineNuxtConfig({
 		'@nuxtjs/color-mode',
 		'@nuxtjs/seo',
 		'@pinia/nuxt',
+		'@vercel/analytics',
 		'@vueuse/nuxt',
 		'nuxt-llms',
 		'unplugin-yaml/nuxt',
