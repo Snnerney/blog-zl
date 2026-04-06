@@ -20,8 +20,14 @@ vibe  coding盛行时代
 - 原型 ui/ux 设计 ->  https://stitch.withgoogle.com/
 
 > ai快速生成搭建原型界面，可导出以下格式
-> ![1773580559764](image/vibecoding-01/1773580559764.png)
-
+::pic
+---
+src: /img/2026/1773580559764.png
+# mirror: # 是否借助第三方图片加载服务，见源代码
+caption: stitch export setting
+# zoom: false # 是否开启灯箱缩放，默认开启
+---
+::
 - 检索信息-> grok
 
 > 个人很喜欢用grok来当日常搜索，环境配置问题or简单热点问题都可以回答的很好。不过也不要无脑相信ai，结合官方文档以及搜索引擎 可能有更好的方法，再回丢给grok让它解释

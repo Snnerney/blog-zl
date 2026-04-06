@@ -1,5 +1,5 @@
 ---
-title: Vibe Coding series の 012
+title: Vibe Coding series の 02
 date: 2026-03-25 21:06:00
 updated: 2026-03-25 21:06:00
 type: tech
