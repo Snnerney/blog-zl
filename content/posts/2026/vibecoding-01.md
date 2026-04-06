@@ -2,10 +2,10 @@
 title: Vibe Coding series の 01
 date: 2026-03-14 21:06:00
 updated: 2026-03-14 21:06:00
-type: vibe coding
+type: tech
 image: # 封面图推荐 2:1，不含与标题重复的文字
-categories: [生活]
-tags: [实习, 大厂, 随笔]
+categories: [vibecoding]
+tags: [ai,随笔]
 ---
 vibe  coding盛行时代
 
@@ -35,4 +35,4 @@ vibe  coding盛行时代
 
 ide：vscode + 插件（`claude code for vscode , codex , copilot...`）或者官方ai ide/cil，调试切换到熟悉的ide即可（pycharm，idea等）
 
-> 闲言碎语：热点技术迭代很快，虽说倒也不必有热点就一股脑得扑上去，但是关注一些也不是一件坏事，就当新闻听听也行 -> [juya](https://space.bilibili.com/285286947/?spm_id_from=333.788.upinfo.detail.click) . 另外我觉得最重要的一点应该就是实践了吧，很多概念刚开始可能看得眼花缭乱，但是结合实际项目来使用，慢慢捋清思路和技巧，总结感悟体会，不是也挺好的吗
+> 闲言碎语：热点技术迭代很快，虽说倒也不必有热点就一股脑得扑上去，不过关注一些也不是一件坏事，就当新闻听听也行 -> [juya](https://space.bilibili.com/285286947/?spm_id_from=333.788.upinfo.detail.click) . 另外我觉得最重要的一点应该就是实践了吧，很多概念刚开始可能看得眼花缭乱，但是结合实际项目来使用，慢慢捋清思路和技巧，总结感悟体会，不是也挺好的吗

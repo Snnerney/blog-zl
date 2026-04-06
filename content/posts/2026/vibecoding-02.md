@@ -2,10 +2,10 @@
 title: Vibe Coding series の 012
 date: 2026-03-25 21:06:00
 updated: 2026-03-25 21:06:00
-type: vibe coding
+type: tech
 image: # 封面图推荐 2:1，不含与标题重复的文字
-categories: [生活]
-tags: [实习, 大厂, 随笔]
+categories: [vibecoding]
+tags: [ai]
 ---
 接上文
 收录一些vibe coding 好用的tools/spec（非agent中的tools
