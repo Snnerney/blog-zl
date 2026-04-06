@@ -57,7 +57,6 @@ const copyFields = {
 	</template>
 </Tab>
 
-<PostComment />
 </template>
 
 <style lang="scss" scoped>

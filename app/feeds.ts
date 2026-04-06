@@ -22,7 +22,7 @@ export default [
 				avatar: 'https://fft.im/_astro/logo.BS0qX_Ty_1A3M9v.webp',
 				archs: ['Astro', 'Vercel'],
 				date: '2024-02-01',
-				comment: 'Faust佬友',
+				comment: 'get the chicken!',
 			},
 			{
 				author: '焕昭君',
