@@ -16,11 +16,11 @@ const basicConfig = {
 		name: '署名-非商业性使用-相同方式共享 4.0 国际',
 		url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
 	},
-	favicon: 'https://www.example.site/api/icon.png',
+	favicon: 'https://www.windblow.me/api/icon.png',
 	language: 'zh-CN',
 	timeEstablished: '2024-12-04',
 	timeZone: 'Asia/Shanghai',
-	url: 'https://blog.example.site/',
+	url: 'https://windblow.me/',
 	defaultCategory: '未分类',
 }
 
