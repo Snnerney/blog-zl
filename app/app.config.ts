@@ -71,15 +71,16 @@ export default defineAppConfig({
 				],
 			},
 			{
-				title: '信息',
+				title: '社区',
 				items: [
-					{ icon: 'simple-icons:nuxt', text: `主题: ${pascalCase(name)} ${version}`, url: 'https://github.com/L33Z22L11/blog-v3' },
+					{ icon: 'uiw:linux', text: `Linux Do`, url: 'https://linux.do' },
+					{ icon: 'carbon:ai-agent-invocation', text: `LESSWRONG`, url: 'https://lesswrong.com/' },
 				],
 			},
 			{
-				title: '社区',
+				title: '信息',
 				items: [
-					{ icon: 'ph:globe-bold', text: `Linux Do`, url: 'https://linux.do' },
+					{ icon: 'simple-icons:nuxt', text: `主题: ${pascalCase(name)} ${version}`, url: 'https://github.com/L33Z22L11/blog-v3' },
 				],
 			},
 
@@ -92,7 +93,7 @@ export default defineAppConfig({
 		/** 展示标题文本，否则展示纯 Logo */
 		showTitle: true,
 		subtitle: blogConfig.subtitle,
-		// emojiTail: ['📄', '🦌', '🙌', '🐟', '🏖️'],
+		emojiTail: ['🍃', '🍁', '🍂'],
 	},
 
 	/** 友链页面 */
@@ -100,7 +101,7 @@ export default defineAppConfig({
 		/** 无订阅源展示静音图标 */
 		remindNoFeed: true,
 		/** 友链分组内随机排序 */
-		randomInGroup: true,
+		randomInGroup: false,
 	},
 
 	/** 左侧栏导航 */
@@ -128,10 +129,10 @@ export default defineAppConfig({
 			icon: 'ph:sun-bold',
 			tip: '浅色模式',
 		},
-		system: {
-			icon: 'ph:monitor-bold',
-			tip: '跟随系统',
-		},
+		//system: {
+		//	icon: 'ph:monitor-bold',
+		//	tip: '跟随系统',
+		//},
 		dark: {
 			icon: 'ph:moon-bold',
 			tip: '深色模式',

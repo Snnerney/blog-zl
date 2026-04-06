@@ -7,7 +7,7 @@ import { getFavicon, getGithubAvatar, getGithubIcon, getOciqGroupAvatar, getOicq
 export default [
 	// #region 网上邻居
 	{
-		name: '网上邻居',
+		name: 'Friends',
 		desc: '哔——啵——电波通讯中，欢迎常来串门。',
 		// @keep-sorted { "keys": ["date"] }
 		entries: [
