@@ -74,9 +74,15 @@ export default defineAppConfig({
 				title: '信息',
 				items: [
 					{ icon: 'simple-icons:nuxt', text: `主题: ${pascalCase(name)} ${version}`, url: 'https://github.com/L33Z22L11/blog-v3' },
-					{ icon: 'ph:swatches-bold', text: '主题和组件文档', url: 'https://blog.zhilu.site/theme' },
 				],
 			},
+			{
+				title: '社区',
+				items: [
+					{ icon: 'ph:globe-bold', text: `Linux Do`, url: 'https://linux.do' },
+				],
+			},
+
 		] satisfies Nav,
 	},
 
@@ -86,7 +92,7 @@ export default defineAppConfig({
 		/** 展示标题文本，否则展示纯 Logo */
 		showTitle: true,
 		subtitle: blogConfig.subtitle,
-		emojiTail: ['📄', '🦌', '🙌', '🐟', '🏖️'],
+		// emojiTail: ['📄', '🦌', '🙌', '🐟', '🏖️'],
 	},
 
 	/** 友链页面 */

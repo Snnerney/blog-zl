@@ -18,7 +18,7 @@ const basicConfig = {
 	},
 	favicon: 'https://www.example.site/api/icon.png',
 	language: 'zh-CN',
-	timeEstablished: '2019-07-19',
+	timeEstablished: '2024-12-04',
 	timeZone: 'Asia/Shanghai',
 	url: 'https://blog.example.site/',
 	defaultCategory: '未分类',
