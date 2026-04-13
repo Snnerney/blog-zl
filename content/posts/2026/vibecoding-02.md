@@ -18,13 +18,14 @@ tags: [ai]
 - skills相关：
 
   - https://github.com/vercel-labs/agent-skills
-  - https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md
+  - https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md  | 实测其实主要还是取决于model的能力，大体说起来其实还是prompt而已，约束性很低& 用户query过于简单& 非cc等顶模 基本还是达不到很好的效果
   - https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - mcp：
 
   - Chrome DevTools MCP
   - Context7
 - Visual feedback for agents： https://agentation.dev/
+- Design prompt: https://getdesign.md/  参考国内外品牌风格（like Apple、Claude Code等）的design范式，实测还不错，比单纯的frontend-design效果好很多，也可以说是对于模型的“宽容性”高了很多
 
 ### review
 
