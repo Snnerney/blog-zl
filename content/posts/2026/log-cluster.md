@@ -53,6 +53,31 @@ caption: community
 
 ::
 
+免费稳定的学生优惠渠道废弃了，加上论文进度有点赶，转向付费流
+
+cc+ccswitch/哈雷佬的`cursor++` 插件(function：免pro自定义配置api) + `ds-v4 api` 
+
+- ref:  :badge[cursor++]{link = "https://linux.do/t/topic/1926833"}
+> `npx @cometix/ccursor@latest install` 丝滑安装
+>
+> `npx @cometix/ccursor@latest uninstall` 卸载
+
+可能会出现：
+```powershell
+Cursor not found in any default location.
+If installed in a custom path, set CCURSOR_CURSOR_ROOT to point at the resources/app directory and retry.
+```
+
+Listary全局找一下 cursor安装路径 配置环境变量即可：like我的 `D:\software-coding\cursor\resources\app`
+
+PowerShell 管理员模式 ：
+```powershell
+[Environment]::SetEnvironmentVariable("CCURSOR_CURSOR_ROOT", "D:\software-coding\Cursor\resources\app", "User")
+```
+
+总而言之 有报错问ai 再爬楼找faq，基本没什么问题
+
+
 ---
 
 ### 05/01/2026
