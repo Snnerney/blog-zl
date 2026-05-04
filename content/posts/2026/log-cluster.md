@@ -1,7 +1,7 @@
 ---
 title: "[闲言碎语]log-合集"
 date: 2026-04-06 07:06:00
-updated: 2026-04-06 07:06:00
+updated: 2026-05-05 07:06:00
 type: tech
 image: # 封面图推荐 2:1，不含与标题重复的文字
 categories: [生活]
@@ -14,9 +14,8 @@ tags: [杂谈]
 
 ::quote
 #default
-
-| 05/05/2026 |
-| :--------: |
+05/05/2026
+::
 
 ::pic
 -----
@@ -37,7 +36,7 @@ caption: copilot que
 
 在高级请求额度消耗9% 剩余91%，对话3-4轮，扫描了一下项目结构逻辑以及提出了一个需求点的改动之后 就触发了会话速率限制
 
-[Why doesn&#39;t the session rate limit get reset with a new session? ](https://github.com/orgs/community/discussions/193263)
+[Why doesn't the session rate limit get reset with a new session? ](https://github.com/orgs/community/discussions/193263)
 
 ::pic
 -----
@@ -60,9 +59,8 @@ caption: community
 
 ::quote
 #default
-
-| 05/01/2026 |
-| :--------: |
+05/01/2026
+::
 
 最近忙得脑子都快转不过来了 大部分时候都在整理需求&翻文档&&鞭策cc帮我干活
 
@@ -93,7 +91,7 @@ caption: community
 
 {.}
 
-因为自己写点东西感觉很不一样，日常说话我做不到这么说，只是想让自己写的东西日后看起来不会流水账
+因为自己写点东西感觉很不一样，日常说话我做不到这么说，只是想让自己写的东西日后看起来不会太流水账
 
 {.}
 
@@ -107,9 +105,8 @@ caption: community
 
 ::quote
 #default
-
-| 04/06/2026 |
-| :--------: |
+04/06/2026
+::
 
 在l站会关注到一些记录的帖子 所思所想所做 是我本人很喜欢的一类帖子 同时也比较稀少 毕竟是在一个技术论坛(?  主大头还是ai为主 虽然搞七捻三还是比较多 但是基本上没有太多有后续 结尾基本是会被锁的状态 所谓吃瓜情感生活为主 而这类基本时效性比较高 基本没有几天最终就会archive（所谓锁
 
@@ -162,9 +159,8 @@ haha 不过之前的blog都还在，只是没有绑定域名，作为广大verce
 
 ::quote
 #default
-
-| --观后 最近看的一些番-- |
-| :---------------------: |
+--观后 最近看的一些番--
+::
 
 [正相反的你与我](https://www.bilibili.com/bangumi/media/md292073015)
 
