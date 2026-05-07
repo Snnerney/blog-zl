@@ -45,10 +45,11 @@ Agent模式，也就是可以外部交互的ai，可以操作我们的文件&外
 
 ### 进入正题
 
-- 从标准模板开始：一般学院会给`要求与撰写规范`与 `往届参考论文`，参考论文大概率可能是pdf格式，此处推荐baidu的 :badge[PaddleOCR]{link = "https://github.com/PaddlePaddle/PaddleOCR"} ，虽然很多人吐槽baidu搜索广告满天飞，但是ocr服务很不错，直接使用web端或者py服务调用api都可，将pdf转换后的md文本和 `要求与撰写规范` 均放置在doc目录下作为参考引用reference 
+- 从标准模板开始：一般学院会给`要求与撰写规范`与 `往届参考论文`，参考论文大概率可能是pdf格式，此处推荐 :badge[mineru]{link = "https://github.com/opendatalab/mineru"} :blur[```Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.```] or baidu的 :badge[PaddleOCR]{link = "https://github.com/PaddlePaddle/PaddleOCR"} 
+:blur[```Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.``` ]，虽然很多人吐槽baidu搜索广告满天飞，但是ocr服务很不错，直接使用web端或者py服务调用api都可，将pdf转换后的md文本和 `要求与撰写规范` 均放置在doc目录下作为参考引用reference 
 
 
-```text wrap [about] 
+```text wrap [about PaddleOCR] 
 Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 ```
 
