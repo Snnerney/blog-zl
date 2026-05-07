@@ -8,6 +8,8 @@ categories: [agent]
 tags: [杂谈,tools]
 ---
 
+### 前前言
+
 浅记一点点本科论文完成历程，纯log
 
 在pyq帮转了出各种ai pro/plus号的帖子，没想到第一个联系我的居然还是高中同学
@@ -21,6 +23,8 @@ tags: [杂谈,tools]
 我说上手并不难，实践中用就行，顺便写一点自己写论文可能用到的东西
 
 ---
+
+### title解释
 
 人+Agent模式，人在前，毕竟论文最终定稿还是由人来决定 + 以及查重 aigc等指标的制约
 
@@ -37,8 +41,19 @@ Agent模式，也就是可以外部交互的ai，可以操作我们的文件&外
 
 本科论文最终交付文件可能word和pdf都需要，需要word且公式等涉及不多的话，可以优先选择markdown而非latex格式输出
 
+---
 
-- :badge[research-writing-skill]{link = "https://github.com/Norman-bury/research-writing-skill#"} |  :badge[我的论文炼丹焚诀，助力你一键到初稿]{link = "https://www.bilibili.com/video/BV1RvRuBQEHQ/?share_source=copy_web&vd_source=6ec8aa29248fc44ea3382634d025fc5b"}
-- :badge[thesis-docx]{link = "https://github.com/the-shy123456/thesis-docx"}
+### 进入正题
 
-- :badge[本科生 / 研究生 论文辅助大合集]{link = "https://linux.do/t/topic/674623"}
+- 从标准模板开始：一般学院会给`要求与撰写规范`与 `往届参考论文`，参考论文大概率可能是pdf格式，此处推荐baidu的 :badge[PaddleOCR]{link = "https://github.com/PaddlePaddle/PaddleOCR"} ，虽然很多人吐槽baidu搜索广告满天飞，但是ocr服务很不错，直接使用web端或者py服务调用api都可，将pdf转换后的md文本和 `要求与撰写规范` 均放置在doc目录下作为参考引用reference 
+
+
+```text wrap [about] 
+Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+```
+
+
+### reference
+> :badge[research-writing-skill]{link = "https://github.com/Norman-bury/research-writing-skill#"} |  :badge[我的论文炼丹焚诀，助力你一键到初稿]{link = "https://www.bilibili.com/video/BV1RvRuBQEHQ/?share_source=copy_web&vd_source=6ec8aa29248fc44ea3382634d025fc5b"}
+> :badge[thesis-docx]{link = "https://github.com/the-shy123456/thesis-docx"}
+> :badge[本科生 / 研究生 论文辅助大合集]{link = "https://linux.do/t/topic/674623"}
