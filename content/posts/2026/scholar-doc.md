@@ -3,7 +3,7 @@ title: 人+Agent模式之速通本科论文|updating
 date: 2026-05-05 05:06:00
 updated: 2026-05-05 07:06:00
 type: tech
-image: # 封面图推荐 2:1，不含与标题重复的文字
+image: https://haowallpaper.com/link/common/file/previewFileImg/2ed5eec0fc56fbdf9525214b84b2f0ee
 categories: [agent]
 tags: [杂谈,tools]
 ---
@@ -20,7 +20,7 @@ tags: [杂谈,tools]
 
 稍微分析了一下情况，发现在不同专业 ai的渗透度差距还是挺大的: 使用网页版居多，不太了解agent模式+agent中各种方法工具论，不了解markdown&latex
 
-我说上手并不难，实践中用就行，顺便写一点自己写论文可能用到的东西
+我说上手并不难，实践中用就行，顺便写一点自己写论文用到的东西
 
 ---
 
@@ -55,6 +55,6 @@ Turn any PDF or image document into structured data for your AI. A powerful, lig
 
 
 ### reference
-> :badge[research-writing-skill]{link = "https://github.com/Norman-bury/research-writing-skill#"} |  :badge[我的论文炼丹焚诀，助力你一键到初稿]{link = "https://www.bilibili.com/video/BV1RvRuBQEHQ/?share_source=copy_web&vd_source=6ec8aa29248fc44ea3382634d025fc5b"}
-> :badge[thesis-docx]{link = "https://github.com/the-shy123456/thesis-docx"}
-> :badge[本科生 / 研究生 论文辅助大合集]{link = "https://linux.do/t/topic/674623"}
+> - :badge[research-writing-skill]{link = "https://github.com/Norman-bury/research-writing-skill#"} |  :badge[我的论文炼丹焚诀，助力你一键到初稿]{link = "https://www.bilibili.com/video/BV1RvRuBQEHQ/?share_source=copy_web&vd_source=6ec8aa29248fc44ea3382634d025fc5b"}
+> - :badge[thesis-docx]{link = "https://github.com/the-shy123456/thesis-docx"} 
+> - :badge[本科生 / 研究生 论文辅助大合集]{link = "https://linux.do/t/topic/674623"}

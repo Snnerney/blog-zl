@@ -37,6 +37,7 @@ const blogConfig = {
 			技术: { icon: 'ph:mouse-bold', color: '#33aaff' },
 			vibecoding: { icon: 'ix-ai', color: '#33aaff' },
 			tools: { icon: 'icon-park-outline:tool', color: '#62b1ea' },
+			agent: { icon: 'ix:ai', color: '#ff7733' },
 			/** 编程：代码实现/工程实践/开发方法 */
 			开发: { icon: 'ph:code-bold', color: '#7777ff' },
 			/** 安全：漏洞/CTF/恶意软件/安全事件分析 */

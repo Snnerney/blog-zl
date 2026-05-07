@@ -16,8 +16,16 @@ tags: [read]
 1. [Zlibrary-维基百科](https://zh.wikipedia.org/wiki/Z-Library)
 
    进入后网站右侧有标识Z-library最新可用网址
+   
+::pic
+-----
+src: https://cdn3.ldstatic.com/original/4X/7/d/0/7d06b24f20814c9ac5a1c04873c8f7dceb8cba3e.png
+# mirror: true
+caption: Zlibrary-维基百科
+# zoom: false # 是否开启灯箱缩放，默认开启
+---
+::
 
-   <img src="https://linux.do/uploads/default/optimized/4X/7/d/0/7d06b24f20814c9ac5a1c04873c8f7dceb8cba3e_2_406x500.png" alt="屏幕截图 2025-04-10 150338" style="zoom:50%;" />
 2. [Zlibrary wiki-Reddit](https://www.reddit.com/r/zlibrary/wiki/index/access/#wiki_how_to_access_zlibrary_through_your_personal_telegram_bot) （可配合[沉浸式翻译插件](https://immersivetranslate.com/zh-Hans/)食用）
 
 > 包含内容如下：
@@ -34,14 +42,36 @@ tags: [read]
 3. [Zlibrary-X](https://x.com/z_lib_official)
    主页中有官方最新链接
 
-<img src="https://linux.do/uploads/default/original/4X/1/4/a/14ae87bcace4f72e3e50dc848fb453a3f24389e2.png" alt="image" style="zoom:50%;" />
+::pic
+-----
+src: https://cdn3.ldstatic.com/optimized/4X/1/4/a/14ae87bcace4f72e3e50dc848fb453a3f24389e2_2_690x350.png
+# mirror: true
+caption: Zlibrary-X
+# zoom: false # 是否开启灯箱缩放，默认开启
+---
+::
 
 4. Z-Access 浏览器扩展 | 这里不给出网址了（官方url可能以后还会变），就是官网的Z-Access中
    找到官网后，可以**拉到网站最底部** 找到**Z-Access**进入
 
-<img src="https://linux.do/uploads/default/optimized/4X/1/0/b/10b78e7ed5949e075ca56d710ab5082e0cf49f66_2_1032x296.png" alt="屏幕截图 2025-04-10 180653" style="zoom:50%;" />
 
-<img src="https://linux.do/uploads/default/optimized/4X/8/7/a/87afef003c957b6242945659bd9b6a8ef6b84755_2_1034x630.png" alt="image" style="zoom:50%;" />
+::pic
+-----
+src: https://cdn3.ldstatic.com/optimized/4X/1/0/b/10b78e7ed5949e075ca56d710ab5082e0cf49f66_2_1032x296.png
+# mirror: true
+caption:  Z-Access
+# zoom: false # 是否开启灯箱缩放，默认开启
+---
+::
+
+::pic
+-----
+src: https://cdn3.ldstatic.com/optimized/4X/8/7/a/87afef003c957b6242945659bd9b6a8ef6b84755_2_1034x630.png
+# mirror: true
+caption:  Z-Access
+# zoom: false # 是否开启灯箱缩放，默认开启
+---
+::
 
 除了reddit中提到的应用程序和tg-bot，还可以添加浏览器扩展（**仅适用于firefox**）
 
@@ -53,7 +83,14 @@ tags: [read]
 
 不过由于Zlibrary在线浏览体验一般，所以我一般选择会下载电子书+[Readest](https://linux.do/t/topic/362694)(开源电子书阅读器)阅读
 
-<img src="https://linux.do/uploads/default/original/4X/e/f/c/efc36293959c076788997e64902ec33f63ef8c27.png" alt="强风吹拂" style="zoom:40%;" />
+::pic
+-----
+src: https://cdn3.ldstatic.com/original/4X/e/f/c/efc36293959c076788997e64902ec33f63ef8c27.png
+# mirror: true
+caption: Readest | 强风吹拂
+# zoom: false # 是否开启灯箱缩放，默认开启
+---
+::
 
 ---
 
