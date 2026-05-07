@@ -18,7 +18,7 @@ tags: [ai]
 - skills相关：
 
   - https://github.com/vercel-labs/agent-skills
-  - https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md  | 实测其实主要还是取决于model的能力，大体说起来其实还是prompt而已，约束性很低& 用户query过于简单& 非cc等顶模 基本还是达不到很好的效果
+  - https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md  | 实测其实主要还是取决于model的能力，大体说起来其实还是prompt而已，约束性很低& 用户query过于简单& 非claude/gemini这类前端审美较好的model， 基本还是达不到很好的效果
   - https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - mcp：
 
