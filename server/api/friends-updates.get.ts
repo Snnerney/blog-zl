@@ -9,7 +9,7 @@ const parser = new XMLParser({
    textNodeName: '#text',
 })
 
-const fetchLimit = pLimit(5)
+const fetchLimit = pLimit(10)
 const htmlTagRe = /<[^>]+>/g
 
 // 部分 RSS 会把“随机页面”“关于页”等也混进来，这里过滤掉常见的非文章路径
@@ -106,7 +106,7 @@ async function fetchOne(entry: FeedEntry & { feed: string }): Promise<FriendUpda
             'User-Agent': 'Mozilla/5.0 (compatible; BlogFriendBot/1.0)',
             'Accept': '*/*',
          },
-         timeout: 10000,
+         timeout: 5000,
       })
       return extractItems(xml, entry).slice(0, 5)
    }

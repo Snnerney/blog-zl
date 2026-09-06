@@ -24,7 +24,11 @@ const copyFields = {
 	网址: myFeed.link,
 	头像: myFeed.avatar,
 }
-const { data: updates, pending } = useFetch('/api/friends-updates', { server: false, responseType: 'json' })
+const { data: updates, pending } = useFetch('/api/friends-updates', {
+	server: false,
+	responseType: 'json',
+	timeout: 8000,
+})
 </script>
 
 <template>
