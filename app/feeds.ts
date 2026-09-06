@@ -56,6 +56,17 @@ export default [
 				date: '2024-02-01',
 				comment: '所谓过往，皆为序章。虚室生白️',
 			},
+			{
+				author: '纸鹿本鹿',
+				title: '纸鹿摸鱼处',
+				link: 'https://blog.zhilu.site/',
+				feed: 'https://blog.zhilu.site/atom.xml',
+				icon: getFavicon('https://blog.zhilu.site/'),
+				avatar: "https://www.zhilu.site/api/avatar.png",
+				archs: ['Nuxt', 'Vercel'],
+				date: '2026-09-06',
+				comment: '纸鹿至麓不知路，支炉制露不止漉',
+			},
 		],
 	},
 	// #region 漫游
