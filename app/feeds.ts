@@ -57,7 +57,7 @@ export default [
 				comment: '所谓过往，皆为序章。虚室生白️',
 			},
 			{
-				author: '纸鹿本鹿',
+				author: '纸鹿摸鱼处',
 				title: '纸鹿摸鱼处',
 				link: 'https://blog.zhilu.site/',
 				feed: 'https://blog.zhilu.site/atom.xml',
