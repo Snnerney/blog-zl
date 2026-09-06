@@ -104,7 +104,7 @@ export default defineNuxtConfig({
 		 * 配合 nitro.prerender.routes 里登记 /media，生成可 200 直达的客户端壳。
 		 */
 		'/media': { ssr: false },
-		...(env.VERCEL ? {} : { '/api/friends-updates': { prerender: true , headers: { 'Content-Type': 'application/json' } } }),
+		...(env.VERCEL ? {} : { '/api/friends-updates': { prerender: true, headers: { 'Content-Type': 'application/json' } } }),
 	},
 
 
