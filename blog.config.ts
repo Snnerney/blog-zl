@@ -91,7 +91,9 @@ const blogConfig = {
 		enableStyle: true,
 	},
 
-
+	scripts: [
+		{ 'src': 'https://umami-rosy-five.vercel.app/script.js', 'data-website-id': '41a5d57e-9fae-4e4f-abe1-85a7d123e9fe', 'defer': true },
+	],
 }
 
 /** 用于生成 OPML 和友链页面配置 */
