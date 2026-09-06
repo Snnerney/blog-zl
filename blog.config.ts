@@ -92,7 +92,7 @@ const blogConfig = {
 	},
 
 	scripts: [
-		{ 'src': 'https://umami-rosy-five.vercel.app/script.js', 'data-website-id': '41a5d57e-9fae-4e4f-abe1-85a7d123e9fe', 'defer': true },
+		{ 'src': 'https://umami.noospic.top/script.js', 'data-website-id': 'e78c4925-155f-47ae-ad29-4afea10f1754', 'defer': true },
 	],
 }
 
