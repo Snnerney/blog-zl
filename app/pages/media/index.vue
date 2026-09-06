@@ -59,7 +59,7 @@ function fetchPage(offset: number) {
 		offset: String(offset),
 	})
 	const url = `${BGM_API}/${appConfig.bangumi.uid}/collections?${query}`
-	return $fetch<BgmCollectionPage>(withBgmProxy(appConfig.bangumi.apiProxy, url))
+	return $fetch<BgmCollectionPage>(withBgmProxy(appConfig.bangumi.apiProxy, url), { timeout: 10000 })
 }
 
 let reqId = 0

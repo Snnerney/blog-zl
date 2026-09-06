@@ -24,7 +24,7 @@ const copyFields = {
 	网址: myFeed.link,
 	头像: myFeed.avatar,
 }
-const { data: updates, pending } = await useFetch('/api/friends-updates', {server: false, responseType: 'json'})
+const { data: updates, pending } = useFetch('/api/friends-updates', { server: false, responseType: 'json' })
 </script>
 
 <template>
@@ -35,7 +35,7 @@ const { data: updates, pending } = await useFetch('/api/friends-updates', {serve
 <FeedGroup v-for="group in feeds" :key="group.name" v-bind="group" :shuffle="appConfig.link.randomInGroup" />
 
 <Tab :tabs="['朋友动态', '我的博客信息', '申请友链']" center>
-		<template #tab1>
+	<template #tab1>
 		<div class="link-tab update-list">
 			<p v-if="pending" class="text-center">
 				正在刷新友链动态……
