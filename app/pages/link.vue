@@ -4,7 +4,7 @@ import feeds from '~/feeds'
 
 const appConfig = useAppConfig()
 const layoutStore = useLayoutStore()
-layoutStore.setAside([])
+layoutStore.setAside(['blog-stats', 'blog-log', 'blog-tech'])
 
 const { data: postLink } = await useAsyncData(
 	'/link',
