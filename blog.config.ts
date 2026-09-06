@@ -77,9 +77,9 @@ const blogConfig = {
 		 * 反代需回传 access-control-allow-origin（客户端取数要跨域）。
 		 */
 		/** 列表接口反代前缀 */
-		apiProxy: '',
+		apiProxy: 'https://api-bgm.noospic.top/',
 		/** 封面图反代前缀 */
-		imgProxy: '',
+		imgProxy: 'https://img-bgm.noospic.top/',
 	},
 
 

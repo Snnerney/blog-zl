@@ -24,7 +24,7 @@ const copyFields = {
 	网址: myFeed.link,
 	头像: myFeed.avatar,
 }
-const { data: updates, pending } = useFetch('/api/friends-updates', {
+const { data: updates, pending } = useLazyFetch('/api/friends-updates', {
 	server: false,
 	responseType: 'json',
 	timeout: 8000,
