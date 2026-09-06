@@ -14,7 +14,7 @@ useSeoMeta({
 const route = useRoute()
 const router = useRouter()
 const layoutStore = useLayoutStore()
-layoutStore.setAside(['blog-stats', 'blog-log'])
+layoutStore.setAside(['blog-stats', 'blog-log', 'blog-tech'])
 
 const DEFAULT_CATEGORY = BGM_CATEGORIES[0]!.key
 const DEFAULT_STATUS: BgmStatusKey = BGM_STATUS_KEYS[0]
