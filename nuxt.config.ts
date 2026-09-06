@@ -17,6 +17,7 @@ function pluginPath(path: string) {
 export default defineNuxtConfig({
 	app: {
 		head: {
+			script: env.NODE_ENV === 'production' ? blogConfig.scripts : [],
 			meta: [
 				{ name: 'author', content: [blogConfig.author.name, blogConfig.author.email].filter(Boolean).join(', ') },
 				{ name: 'color-scheme', content: 'light dark' },
